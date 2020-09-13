@@ -31,4 +31,3 @@ epic_tragedy = {
    }
 }
   
-end
